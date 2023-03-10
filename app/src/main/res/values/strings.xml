@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">basic_text_app</string>
+    <string name="image_data">context describution</string>
+    <string name="text">seeing the details</string>
+    <string name="plaintext">waiting to see</string>
+    <string name="string_text">enter yourname</string>
+    <string name="button_id">
+        Click me
+    </string></resources>
